@@ -17,7 +17,7 @@ $\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . les
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
 
-⠀⠀⠀⠀⠀⠀[strawpg](https://nmixes.straw.page/)$\color{#f8f9fa}{\textsf{   ⋆}}$    [prns.pg](https://en.pronouns.page/@nmixes)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[strawpg](https://nmixes.straw.page/)$\color{#f8f9fa}{\textsf{   ⋆}}$    [prns.pg](https://en.pronouns.page/@nmixes)
 
 $\color{#fefae0}\textsf{⠀@pt-friendships ♡ bdaycake trio!}$
  
