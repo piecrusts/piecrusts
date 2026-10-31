@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./59457e683dab600eff0481e208350fec-removebg-preview.png" width="30">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=669bbc&color=003049" alt="ssamjin badge">
+  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=457b9d&color=1d3557" alt="ssamjin badge">
   &nbsp;&nbsp;
   <img src="./zzz.png" width="30">
 </p>
