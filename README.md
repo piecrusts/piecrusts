@@ -6,6 +6,7 @@
   <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
 </p>
 
+<p align="center">
 $\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
 
 $\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
