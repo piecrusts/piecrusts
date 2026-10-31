@@ -22,6 +22,17 @@ $\color{#457b9dc}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}
 
 $\color{#457b9d}\textsf{⠀⠀⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
 
+<details>
+  <summary style="color: #1d3557; cursor: pointer; font-size: 16px;">
+    <b>🌸 about me (click to expand)</b>
+  </summary>
+  <p style="color: #1d3557; font-size: 15px; line-height: 1.6; margin-left: 15px;">
+    • <b>likes:</b> cats, gaming, editing<br>
+    • <b>dislikes:</b> loud noises, math<br>
+    • <b>current hyperfixation:</b> rhythm games
+  </p>
+</details>
+
 
 
 
