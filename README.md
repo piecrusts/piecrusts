@@ -6,20 +6,22 @@
   <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
 </p>
 
-<p align="center">
+<div>
+  <img src="./057b39a6e9e0a6070563e7d1fe44e378-removebg-preview.png" width="260" align="left">
+ 
+
 $\color{#fefae0}\textsf{⠀jaz⠀or⠀⠀leowook}$
-<p align="center">
+
 $\color{#f4e285}\textsf{⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
-<p align="center">
+
 $\color{#f8f9fa}\textsf{⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
-<p align="center">
+
 <a href="https://nmixes.straw.page/">strawpg</a> &nbsp;&nbsp; $\color{#f8f9fa}{\textsf{⋆}}$ &nbsp;&nbsp; <a href="https://en.prons.page/@nmixes">prns.pg</a><br><br>
-<p align="center">
+
 $\color{#fefae0}\textsf{⠀@pt-friendships ♡ bdaycake trio!}$
  
 <details>
   <summary>
-   <p align="center">
     $\color{#f4e285}{\textsf{   click me to read my extra info and boundaries !}}$
   </summary>
   <br>
