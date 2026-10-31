@@ -30,7 +30,7 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
  
   $\color{#f4e285}{\textsf{extra info:}}$ $\color{#f8f9fa}{\textsf{i really like kpop ok! So if you do too please come up to me! I also like mcyt, fnaf, acnh, fall guys, etc.}}$<br> $\color{#f8f9fa}{\textsf{Im really shy at first, i usually wait for people to come up to me first so thats why you might see me sitting alone, i really do want to get to know you!}}$<br> $\color{#f8f9fa}{\textsf{Once you do i will be way more energetic.}}$<br>
   
-  $\color{#f5f0dd}{\textsf{• current hyperfixation: rhythm games}}$
+  $\color{#f4e285}{\textsf{byf:}}$ $\color{#f8f9fa}{\textsf{Once you get to know me I will tease you a lot and joke about stuff.}}$<br> $\color{#f8f9fa}{\textsf{I will use tone tags like /j but once I get to know you more I will stop using it because i see no point in it.}}$<br> $\color{#f8f9fa}{\textsf{You are always welcome to tell me to keep using tone tags if your prefer.}}$<br>  $\color{#f8f9fa}{\textsf{I have a very low social battery so if you dm me and I dont answer for a while that just means im tired, im got ghosting you I promise}}$<br> $\color{#f8f9fa}{\textsf{(ive lost so many friends because of this sob)}}$<br>
 </details>
 
 
