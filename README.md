@@ -10,7 +10,7 @@
   <img src="./057b39a6e9e0a6070563e7d1fe44e378-removebg-preview.png" width="260" align="left">
  
 
-$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
+$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
 
 $\color{#f4e285}\textsf{⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
