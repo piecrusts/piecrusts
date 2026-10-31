@@ -19,7 +19,7 @@ $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
 ⠀⠀⠀⠀⠀         ⠀⠀⠀[strawpg](https://nmixes.straw.page/)$\color{#f8f9fa}{\textsf{   ⋆}}$    [prns.pg](https://en.pronouns.page/@nmixes)
 
-$\color{#fefae0}\textsf{⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
+$\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
  
 <details>
   <summary>
