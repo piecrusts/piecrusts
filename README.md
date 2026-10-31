@@ -9,7 +9,7 @@
 <p align="center">
 $\color{#fefae0}\textsf{⠀jaz⠀or⠀⠀leowook}$
 <p align="center">
-$\color{#f4e285}\textsf{⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
+$\color{#f4e285}\textsf{⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
