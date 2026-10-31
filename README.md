@@ -26,9 +26,9 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
     $\color{#f4e285}{\textsf{   click me to read my extra info and boundaries !}}$
   </summary>
   <br>
-  $\color{#f5f0dd}{\textsf{pt boundaries:}}$ $\color{#f8f9fa}{\textsf{i dont have many boundaries, the main one is please dont cover me, unless im comfortable w/ you or cuds.}}$<br> $\color{#f8f9fa}{\textsf{Please do not call me Jaz until i give you permission to (its only for people who are my freinds), feel free to just call me by my claims.}}$<br> $\color{#f8f9fa}{\textsf{Im really nice ok! I dont have many friends so please, feel free to cuddle with me without asking!}}$<br>
+  $\color{#fefae0}{\textsf{pt boundaries:}}$ $\color{#f8f9fa}{\textsf{i dont have many boundaries, the main one is please dont cover me, unless im comfortable w/ you or cuds.}}$<br> $\color{#f8f9fa}{\textsf{Please do not call me Jaz until i give you permission to (its only for people who are my freinds), feel free to just call me by my claims.}}$<br> $\color{#f8f9fa}{\textsf{Im really nice ok! I dont have many friends so please, feel free to cuddle with me without asking!}}$<br>
  
-  $\color{#f5f0dd}{\textsf{extra info:}}$ $\color{#f8f9fa}{\textsf{i really like kpop ok! So if you do too please come up to me! I also like mcyt, fnaf, acnh, fall guys, etc.}}$<br> $\color{#f8f9fa}{\textsf{Im really shy at first, i usually wait for people to come up to me first so thats why you might see me sitting alone, i really do want to get to know you!}}$<br> $\color{#f8f9fa}{\textsf{Once you do i will be way more energetic.}}$<br>
+  $\color{#\fefae0}{\textsf{extra info:}}$ $\color{#f8f9fa}{\textsf{i really like kpop ok! So if you do too please come up to me! I also like mcyt, fnaf, acnh, fall guys, etc.}}$<br> $\color{#f8f9fa}{\textsf{Im really shy at first, i usually wait for people to come up to me first so thats why you might see me sitting alone, i really do want to get to know you!}}$<br> $\color{#f8f9fa}{\textsf{Once you do i will be way more energetic.}}$<br>
   
   $\color{#f5f0dd}{\textsf{• current hyperfixation: rhythm games}}$
 </details>
