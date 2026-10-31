@@ -12,13 +12,14 @@ $\color{#fefae0}\textsf{⠀jaz⠀or⠀⠀leowook}$
 $\color{#f4e285}\textsf{⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 <p align="center">
 $\color{#f8f9fa}\textsf{⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
-
-<a href="https://nmixes.straw.page/">strawpg</a> &nbsp;&nbsp; $\color{#f8f9fa}{\textsf{*}}$ &nbsp;&nbsp; <a href="https://en.prons.page/@nmixes">prns.pg</a><br><br>
-
-$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
-
+<p align="center">
+<a href="https://nmixes.straw.page/">strawpg</a> &nbsp;&nbsp; $\color{#f8f9fa}{\textsf{⋆}}$ &nbsp;&nbsp; <a href="https://en.prons.page/@nmixes">prns.pg</a><br><br>
+<p align="center">
+$\color{#fefae0}\textsf{⠀@pt-friendships ♡ bdaycake trio!}$
+ 
 <details>
   <summary>
+   <p align="center">
     $\color{#f4e285}{\textsf{click me to read my extra info and boundaries !}}$
   </summary>
   <br>
