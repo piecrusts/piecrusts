@@ -23,14 +23,13 @@ $\color{#457b9dc}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}
 $\color{#457b9d}\textsf{⠀⠀⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
 
 <details>
-  <summary style="color: #1d3557; cursor: pointer; font-size: 16px;">
-    <b>🌸 about me (click to expand)</b>
+  <summary>
+    $\color{#c6cdd5}{\textsf{click me to read my extra info and boundaries !}}$
   </summary>
-  <p style="color: #1d3557; font-size: 15px; line-height: 1.6; margin-left: 15px;">
-    • <b>likes:</b> cats, gaming, editing<br>
-    • <b>dislikes:</b> loud noises, math<br>
-    • <b>current hyperfixation:</b> rhythm games
-  </p>
+  <br>
+  $\color{#f5f0dd}{\textsf{• likes: cats, gaming, editing}}$<br>
+  $\color{#7fd955}{\textsf{• dislikes: loud noises, math}}$<br>
+  $\color{#f5f0dd}{\textsf{• current hyperfixation: rhythm games}}$
 </details>
 
 
