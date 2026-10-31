@@ -7,7 +7,7 @@
 </p>
 
 <div>
-  <img src="./057b39a6e9e0a6070563e7d1fe44e378-removebg-preview.png" width="260" align="left">
+  <img src="./ca57ef4e83857db4991cd5855a645488-removebg-preview.png" width="260" align="left">
  
 
 $\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
