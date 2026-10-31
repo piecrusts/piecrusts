@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-$\color{#fefae0}\textsf{⠀⠀jaz⠀or⠀⠀leowook}$
+$\color{#fefae0}\textsf{⠀jaz⠀or⠀⠀leowook}$
 
 $\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
