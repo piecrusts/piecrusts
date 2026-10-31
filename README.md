@@ -8,8 +8,8 @@
 
 <p align="center">
 $\color{#fefae0}\textsf{⠀jaz⠀or⠀⠀leowook}$
-
-$\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
+<p align="center">
+$\color{#f4e285}\textsf{⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
