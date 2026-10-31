@@ -1,33 +1,27 @@
 <p align="center">
-  <img src="./59457e683dab600eff0481e208350fec-removebg-preview.png" width="30">
+  <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=457b9d&color=1d3557" alt="ssamjin badge">
+  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=fefae0&color=f4e285" alt="ssamjin badge">
   &nbsp;&nbsp;
-  <img src="./zzz.png" width="30">
+  <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
 </p>
 
-<div>
-  <img src="./057b39a6e9e0a6070563e7d1fe44e378-removebg-preview.png" width="260" align="left">
+$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
 
-  <dl>
-    <dt><br></dt>
+$\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
-$\color{#457b9d}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀dtown⠀or⠀⠀bluey}$
+$\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
-$\color{#1d3557}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
+⠀⠀⠀⠀⠀ [strawpg](https://nmixes.straw.page/)$\color{#f8f9fa}\textsf{⠀⠀⠀⠀⋆}$⠀⠀⠀⠀[prns.pg](https://en.pronouns.page/@nmixes)
 
-$\color{#457b9dc}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
-
-⠀⠀⠀⠀⠀ [strawpg](https://nmixes.straw.page/)$\color{#fbf0dc}\textsf{⠀⠀⠀⠀⋆}$⠀⠀⠀⠀[prns.pg](https://en.pronouns.page/@nmixes)
-
-$\color{#457b9d}\textsf{⠀⠀⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
+$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀@pt-friendships ♡ bdaycake trio!}$
 
 <details>
   <summary>
-    $\color{#c6cdd5}{\textsf{click me to read my extra info and boundaries !}}$
+    $\color{#f4e285}{\textsf{click me to read my extra info and boundaries !}}$
   </summary>
   <br>
-  $\color{#f5f0dd}{\textsf{• likes: cats, gaming, editing}}$<br>
+  $\color{#f5f0dd}{\textsf{pt boundaries:}}$ $\color{#f8f9fa}{\textsf{i dont have many boundaries, the main one is please dont cover me, unless im comfortable w/ you or cuds.}}$<br> $\color{#f8f9fa}{\textsf{Please do not call me Jaz until i give you permission to (its only for people who are my freinds), feel free to just call me by my claims.}}$<br> $\color{#f8f9fa}{\textsf{Im really nice ok! I dont have many friends so please, feel free to cuddle with me without asking!}}$<br>
   $\color{#7fd955}{\textsf{• dislikes: loud noises, math}}$<br>
   $\color{#f5f0dd}{\textsf{• current hyperfixation: rhythm games}}$
 </details>
