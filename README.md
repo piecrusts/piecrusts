@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
+ <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=fefae0&color=f4e285" alt="ssamjin badge">
   &nbsp;&nbsp;
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
+$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
 
 $\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
