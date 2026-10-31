@@ -27,7 +27,7 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
   </summary>
   <br>
   $\color{#f5f0dd}{\textsf{pt boundaries:}}$ $\color{#f8f9fa}{\textsf{i dont have many boundaries, the main one is please dont cover me, unless im comfortable w/ you or cuds.}}$<br> $\color{#f8f9fa}{\textsf{Please do not call me Jaz until i give you permission to (its only for people who are my freinds), feel free to just call me by my claims.}}$<br> $\color{#f8f9fa}{\textsf{Im really nice ok! I dont have many friends so please, feel free to cuddle with me without asking!}}$<br>
-  $\color{#7fd955}{\textsf{• dislikes: loud noises, math}}$<br>
+  $\color{#f5f0dd}{\textsf{extra info:}}$ $\color{#f8f9fa}{\textsf{i really like kpop ok! So if you do too please come up to me! I also like mcyt, fnaf, acnh, fall guys, etc.}}$<br>
   $\color{#f5f0dd}{\textsf{• current hyperfixation: rhythm games}}$
 </details>
 
