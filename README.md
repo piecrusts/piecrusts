@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./7d81cab59c7fdacbb9fa73982d406a8b (1).jpg" width="100%" alt="Header Banner">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ssamjin%F0%9D%9C%97%F0%9D%9C%9A;-1252-ffffff?style=flat&labelColor=7fd955&color=f5f0dd" alt="ssamjin badge">
+  <img src="./59457e683dab600eff0481e208350fec-removebg-preview.png" width="30">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=669bbc&color=003049" alt="ssamjin badge">
+  &nbsp;&nbsp;
+  <img src="./zzz.png" width="30">
 </p>
 
 <div>
@@ -12,11 +12,11 @@
   <dl>
     <dt><br></dt>
 
-$\color{#fbf0dc}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀mixx⠀or⠀⠀bluey}$
+$\color{#457b9d}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀dtown⠀or⠀⠀bluey}$
 
-$\color{#8fdc51}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
+$\color{#1d3557}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
-$\color{#fbf0dc}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
+$\color{#457b9dc}\textsf{⠀⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
 ⠀⠀⠀⠀⠀ [strawpg](https://nmixes.straw.page/)$\color{#fbf0dc}\textsf{⠀⠀⠀⠀⋆}$⠀⠀⠀⠀[prns.pg](https://en.pronouns.page/@nmixes)
 
