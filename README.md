@@ -8,6 +8,8 @@
 
 <div>
   <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="left">
+
+   <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="right">
  
 
 $\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
