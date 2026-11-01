@@ -8,7 +8,7 @@
 
 <div>
   <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="left">
-
+<div>
    <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="right">
  
 
