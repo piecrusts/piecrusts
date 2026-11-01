@@ -9,7 +9,7 @@
 <div>
   <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="left">
 <div>
-   <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="right">
+   <img src="./Lifesteal_s6__1_-removebg-preview.png" width="260" align="right">
  
 
 $\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
