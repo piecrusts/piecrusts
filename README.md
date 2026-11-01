@@ -48,6 +48,6 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
 </p>
 
 <p align="center">
-  <img src="./b12d9f4e2ab2042c7f36a1d4884bc1c6.jpg" width="100%">
+  <img src="./Screenshot 2026-11-01 181213.png" width="100%">
 </p>
 ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀                ⠀󠀠 󠀠⠀ ⠀       
