@@ -1,9 +1,9 @@
 <p align="center">
- <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
+ <img src="./24f5f00069e1c85f19f77f11be8c803f-removebg-preview.png" width="30">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ssamjin-1252-ffffff?style=flat&labelColor=fefae0&color=f4e285" alt="ssamjin badge">
+  <img src="https://img.shields.io/badge/find your wingsִֶָ ་༘-ffffff?style=flat&labelColor=f7f5f1&color=f7f5f1" alt="ssamjin badge">
   &nbsp;&nbsp;
-  <img src="./c4d9aaec9bfa5b380762d01cf2a43763-removebg-preview.png" width="30">
+  <img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
 </p>
 
 <div>
