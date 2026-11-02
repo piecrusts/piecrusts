@@ -6,15 +6,11 @@
   <img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
 </p>
 
-<div>
-  <img src="./Lifesteal_s6-removebg-preview.png" width="260" align="left">
-<div>
-   <img src="./Lifesteal_s6__1_-removebg-preview.png" width="260" align="right">
- 
+<p align="center">
+ $\color{#e4e4e2}\textsf{໒꒱ angel :}$
+$\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#e3e3e1}\textsf{They are the cosmic architects of fate, the silent guardians of the universe,}$ $\color{#e3e3e1}\textsf{and the soaring messengers who bridge the gap between heaven and earth.}$
 
-$\color{#e5e5e5}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
-
-$\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
+$\color{#ced4da}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
 
