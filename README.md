@@ -35,7 +35,7 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
   $\color{#f4e285}{\textsf{byf:}}$ $\color{#f8f9fa}{\textsf{Once you get to know me I will tease you a lot and joke about stuff.}}$<br> $\color{#f8f9fa}{\textsf{I will use tone tags like /j but once I get to know you more I will stop using it because i see no point in it.}}$<br> $\color{#f8f9fa}{\textsf{You are always welcome to tell me to keep using tone tags if your prefer.}}$<br>  $\color{#f8f9fa}{\textsf{I have a very low social battery so if you dm me and I dont answer for a while that just means im tired, im got ghosting you I promise}}$<br> $\color{#f8f9fa}{\textsf{(ive lost so many friends because of this sob)}}$<br>
 </details>
 
-
+$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀use dark mode to see text}$
 
 
   </dl>
