@@ -46,8 +46,4 @@ $\color{#fefae0}\textsf{⠀⠀ ⠀@pt-friendships ♡ bdaycake trio!}$
 <p align="center">
   <img src="./YOUR_STAR_GIF_NAME.gif" width="150" alt="leaf divider">
 </p>
-
-<p align="center">
-  <img src="./Screenshot 2026-11-01 181213.png" width="100%">
-</p>
 ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀                ⠀󠀠 󠀠⠀ ⠀       
