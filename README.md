@@ -12,7 +12,7 @@
    <img src="./Lifesteal_s6__1_-removebg-preview.png" width="260" align="right">
  
 
-$\color{#fefae0}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
+$\color{#e5e5e5}\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀jaz⠀or⠀⠀leowook}$
 
 $\color{#f4e285}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
