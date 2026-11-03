@@ -10,6 +10,10 @@
  $\color{#e4e4e2}\textsf{໒꒱ angel :}$
 $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#e3e3e1}\textsf{They are the cosmic architects of fate, the silent guardians of the universe,}$ $\color{#e3e3e1}\textsf{and the soaring messengers who bridge the gap between heaven and earth.}$
 
+<p align="center">
+  <img src="./798cd964986c7fa6ec53b12f0da7fa60-removebg-preview.png" width="200" alt="divider">
+</p>
+
 $\color{#ced4da}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
