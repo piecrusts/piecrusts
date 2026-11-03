@@ -18,6 +18,5 @@ $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+Code&weight=100&pause=1000&color=dededc&background=6FE9FF00&center=true&vCenter=true&width=1000&height=60&lines=feel+the+breeze+in+my+fingers,+out+the+window+close+your+eyes)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+Code&weight=100&pause=2000&color=dededc&background=6FE9FF00&center=true&vCenter=true&width=1000&height=60&lines=+and+ill+take+you+where+the+wind+blows)](https://git.io/typing-svg)
-<p align="center">
  
-[strawpg](https://nmixes.straw.page/)$\color{#e4e4e2}{\textsf{   ⋆}}$    [prns.pg](https://en.pronouns.page/@nmixes)
+<p align="center"> [strawpg](https://nmixes.straw.page/)$\color{#e4e4e2}{\textsf{   ⋆}}$    [prns.pg](https://en.pronouns.page/@nmixes)
