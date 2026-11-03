@@ -12,6 +12,10 @@ $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and
 
 <img src="sssss.png" width="1000" >
 
+<p align="center">
+  <img src="./c0dfa7dd0c135ae68c86eb5f9647bef8-removebg-preview.png" width="300" alt="centered image">
+</p>
+
 $\color{#ced4da}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
 $\color{#f8f9fa}\textsf{⠀⠀⠀⠀⠀⠀isfp ,, dive ,, fearnot + ⠀𐂯}$
