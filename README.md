@@ -16,24 +16,8 @@ $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and
   <img src="./adhuwdhwud.png" width="300" alt="centered image">
 </p>
 
-<p id="type-text" style="font-family: monospace; color: #f5f0dd;"></p>
+[![Typing SVG](https://demolab.com)](https://git.io)
 
-<script>
-  const text = "Hello! Welcome to my profile...";
-  let index = 0;
-  const speed = 100; // Speed in milliseconds per character
-
-  function typeWriter() {
-    if (index < text.length) {
-      document.getElementById("type-text").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  // Start the typing animation when the page loads
-  typeWriter();
-</script>
 
 $\color{#ced4da}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
