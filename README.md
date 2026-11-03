@@ -9,9 +9,8 @@
 <p align="center">
  $\color{#e4e4e2}\textsf{໒꒱ angel :}$
 $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#e3e3e1}\textsf{They are the cosmic architects of fate, the silent guardians of the universe,}$ $\color{#e3e3e1}\textsf{and the soaring messengers who bridge the gap between heaven and earth.}$
-<br><br>
-  <img src="./798cd964986c7fa6ec53b12f0da7fa60-removebg-preview.png" width="80%" alt="lace divider">
-</p>
+
+<img src="sssss.png" width="1000" >
 
 $\color{#ced4da}\textsf{⠀⠀⠀⠀⠀⠀૮ • ﻌ - ა⠀⠀minor . . . lesbian}$
 
