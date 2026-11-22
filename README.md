@@ -1,9 +1,9 @@
 <p align="center">
- <img src="./24f5f00069e1c85f19f77f11be8c803f-removebg-preview.png" width="30">
+ <img src="./450793026fdc03546110de7db1fa762d-removebg-preview.png" width="30">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/find your wingsִֶָ ་༘-ffffff?style=flat&labelColor=f7f5f1&color=f7f5f1" alt="ssamjin badge">
+  <img src="https://img.shields.io/badge/find your wingsִֶָ ་༘-ffa5ab?style=flat&labelColor=ffa5ab&color=ffa5ab" alt="why you looking at my git">
   &nbsp;&nbsp;
-  <img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
+  <img src="./450793026fdc03546110de7db1fa762d-removebg-preview.png" width="30">
 </p>
 
 <p align="center">
