@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="2a415c35467f0a6d79bae987b5d1cf48-removebg-preview (1).png" width="300" alt="centered image">
+  <img src="2a415c35467f0a6d79bae987b5d1cf48-removebg-preview (1).png" width="200" alt="centered image">
 </p>
 
 <p align="center">
  $\color{#f4a261}\textsf{jas or mixx}$
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+Code&weight=100&pause=1000&color=ffa5ab&background=6FE9FF00&center=true&vCenter=true&width=1000&height=60&lines=feel+the+breeze+in+my+fingers,+out+the+window+close+your+eyes)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+Code&weight=100&pause=2000&color=f4a261&background=6FE9FF00&center=true&vCenter=true&width=1000&height=60&lines=+and+ill+take+you+where+the+wind+blows)](https://git.io/typing-svg)
+ <p align="center">
+ $\color{#ffa5ab}\textsf{minor , aest , lesbaian}$ 
 
  <p align=center> <a href="https://guns.lol/anyujins">guns.lol</a> $\color{#f4a261}\textsf{   ⋆}$ <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
