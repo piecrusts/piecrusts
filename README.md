@@ -13,7 +13,7 @@ $\color{#e3e3e1}\textsf{a luminous, celestial entity carved from pure spirit and
 <img src="sssss.png" width="1000" >
 
 <p align="center">
-  <img src="./adhuwdhwud.png" width="300" alt="centered image">
+  <img src="2a415c35467f0a6d79bae987b5d1cf48-removebg-preview (1).png" width="300" alt="centered image">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+Code&weight=100&pause=1000&color=dededc&background=6FE9FF00&center=true&vCenter=true&width=1000&height=60&lines=feel+the+breeze+in+my+fingers,+out+the+window+close+your+eyes)](https://git.io/typing-svg) 
