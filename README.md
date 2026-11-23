@@ -1,3 +1,9 @@
+<p align="center">
+                          <a href="https://hits.sh/github.com/piecrusts/">
+                            <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=ffffff&labelColor=ffa5ab" alt="Hits">
+  </a>
+</p>
+
   <div>
   <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="350" align="left" alt="character">
 
