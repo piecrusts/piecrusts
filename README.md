@@ -1,18 +1,18 @@
-<p align="left">
-  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="200">
-</p>
+<div>
+  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="200" align="left" style="margin-right: 20px;" alt="character">
 
-<table align="center">
-  <tr>
-    <td align="center">
-      &nbsp;&nbsp;&nbsp;
-      $\color{#a81c07}{\textrm{if \quad you \quad spit \quad on \quad it,}}$
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      $\color{#1c549c}{\textrm{it’ll heal.}}$
-      &nbsp;&nbsp;&nbsp;
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <td align="center">
+        &nbsp;&nbsp;&nbsp;
+        $\color{#f4a261}{\textrm{theres something about the truth}}$
+        &nbsp;&nbsp;&nbsp;
+      </td>
+    </tr>
+  </table>
+  
+  <br clear="all">
+</div>
 
 <p align="center">
  $\color{#f4a261}\textsf{jas or mixx}$
