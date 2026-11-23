@@ -5,8 +5,9 @@
     <tr>
       <td align="center">
         &nbsp;&nbsp;&nbsp;
-        $\color{#f4a261}{\textrm{theres something about the truth}}$
+        $\color{#f4a261}{\textrm{theres something about the truth ,}}$
         &nbsp;&nbsp;&nbsp;
+        $\color{#ffa5ab}{\textrm{that keep it from being perfect.}}$
       </td>
     </tr>
   </table>
