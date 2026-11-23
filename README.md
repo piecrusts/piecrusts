@@ -1,5 +1,5 @@
 <div>
-  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="200" align="left" style="margin-right: 20px;" alt="character">
+  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="300" align="left" style="margin-right: 5px;" alt="character">
 
   <table align="center">
     <tr>
