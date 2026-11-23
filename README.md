@@ -2,6 +2,18 @@
   <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="200">
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp;&nbsp;&nbsp;
+      $\color{#a81c07}{\textrm{if \quad you \quad spit \quad on \quad it,}}$
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      $\color{#1c549c}{\textrm{it’ll heal.}}$
+      &nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+</table>
+
 <p align="center">
  $\color{#f4a261}\textsf{jas or mixx}$
  <p align="center">
