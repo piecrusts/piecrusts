@@ -1,15 +1,18 @@
-<div>
-  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="300" align="left" style="margin-right: 5px;" alt="character">
+  <div>
+  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="350" align="left" alt="character">
 
-  <table align="center">
+  <table>
     <tr>
       <td align="center">
         &nbsp;&nbsp;&nbsp;
-        $\color{#f4a261}{\texttt{theres something about the truth}}$
+        $\color{#f4a261}{\textrm{theres something about the truth}}$
         &nbsp;&nbsp;&nbsp;
       </td>
     </tr>
   </table>
+  
+  <br clear="all">
+</div>
   
   <br clear="all">
 </div>
