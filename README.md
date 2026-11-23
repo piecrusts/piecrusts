@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./2a415c35467f0a6d79bae987b5d1cf48-removebg-preview (1).png" width="200" alt="centered image">
+  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="200">
 </p>
 
 <p align="center">
