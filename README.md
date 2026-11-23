@@ -5,7 +5,7 @@
     <tr>
       <td align="center">
         &nbsp;&nbsp;&nbsp;
-        $\color{#f4a261}{\textsf{theres something about the truth}}$
+        $\color{#f4a261}{\texttt{theres something about the truth}}$
         &nbsp;&nbsp;&nbsp;
       </td>
     </tr>
