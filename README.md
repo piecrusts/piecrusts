@@ -1,6 +1,6 @@
 <p align="center">
                           <a href="https://hits.sh/github.com/piecrusts/">
-                            <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=ffffff&labelColor=ffb3c6" alt="Hits">
+                            <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=f5b787&labelColor=fcd5ce" alt="Hits">
   </a>
 </p>
 
