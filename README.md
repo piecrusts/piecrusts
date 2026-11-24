@@ -1,5 +1,16 @@
+<p align="center">
+ <img src="./450793026fdc03546110de7db1fa762d-removebg-preview.png" width="30">
+  &nbsp;&nbsp;
+<a href="https://hits.sh/github.com/piecrusts/"> <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=f5b787&labelColor=fcd5ce" alt="Hits"> 
+  <img src="./450793026fdc03546110de7db1fa762d-removebg-preview.png" width="30">
+</p>
+
+<p align="center">
+ $\color{#f4a261}\textsf{໒꒱ angel :}$
+$\color{#ffa5ab}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#ffa5ab}\textsf{They are the cosmic architects of fate, the silent guardians of the universe,}$ $\color{#ffa5ab}\textsf{and the soaring messengers who bridge the gap between heaven and earth.}$
+  
   <div>
-  <img src="./2a415c35467f0a6d79bae987b5d1cf48-removebg-preview-removebg-preview.png" width="350" align="left" alt="character">
+  <img src="./b9611946a35698fc33f78669a32ead19-removebg-preview (1).png" width="350" align="left" alt="character">
 
   <table>
     <tr>
