@@ -11,6 +11,17 @@
       </td>
     </tr>
   </table>
+  <details>
+  <summary> ${\textsf{\color{#f4a261}  𑣲}}$ ${\textsf{\color{#ffa5ab}  friends }}$ </summary><br>
+   $\color{#ffa5ab}{\textrm{dysmd gc : }}$ <a href="https://github.com/nx2hxn">@nx2hxn</a> <a href="https://github.com/colesbf">@colesbf</a> <a href="https://github.com/norwayapht">@norwayapht</a><br> <a href="https://github.com/prwttypup">@prwttypup</a> <a href="https://github.com/tartpaw">@tartpaw</a> <br>
+$\color{#ffa5ab}{\textrm{fat trio : }}$ <a href="https://github.com/nx2hxn">@nx2hxn</a> <a href="https://github.com/colesbf">@colesbf</a> <br>
+$\color{#ffa5ab}{\textrm{bday cake trio : }}$ <a href="https://github.com/ccggmadness">@ccggmadness</a> $\color{#ffa5ab}{\textrm{yeva}}$ <br>
+$\color{#ffa5ab}{\textrm{oomfies :}}$ <a href="https://github.com/pyrolaand">@pyrolaand</a> <a href="https://github.com/N1TEB0I">@N1TEB0I</a> <a href="https://github.com/sconelet">@sconelet</a> <a href="https://github.com/lexiwasunknown">@lexiwasunknown</a> <a href="https://github.com/lalleshwariii">@lalleshwariii</a> <a href="https://github.com/lottipedei">@lottipedei</a>
+
+    
+         href="https://github.com/compulsivity">@compulsivity</a>      ${\textsf{\color{#93060c}✚ }}$ <br>
+ </details>
+ 
                       <a href="https://hits.sh/github.com/piecrusts/">
                             <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=f5b787&labelColor=fcd5ce" alt="Hits">
  <p align=center> <a href="https://guns.lol/anyujins">guns.lol</a> $\color{#f4a261}\textsf{   ⋆}$ <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
