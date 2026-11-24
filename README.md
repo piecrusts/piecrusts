@@ -1,9 +1,3 @@
-<p align="center">
-                          <a href="https://hits.sh/github.com/piecrusts/">
-                            <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=f5b787&labelColor=fcd5ce" alt="Hits">
-  </a>
-</p>
-
   <div>
   <img src="./2a415c35467f0a6d79bae987b5d1cf48-removebg-preview-removebg-preview.png" width="350" align="left" alt="character">
 
@@ -17,12 +11,10 @@
       </td>
     </tr>
   </table>
-  
-  <br clear="all">
-</div>
-  
-  <br clear="all">
-</div>
+                          <a href="https://hits.sh/github.com/piecrusts/">
+                            <img src="https://hits.sh/github.com/piecrusts.svg?label=jumps%20%2C&color=f5b787&labelColor=fcd5ce" alt="Hits">
+ <p align=center> <a href="https://guns.lol/anyujins">guns.lol</a> $\color{#f4a261}\textsf{   ⋆}$ <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
+
 
 <p align="center">
  $\color{#f4a261}\textsf{jas or mixx}$
@@ -33,4 +25,4 @@
   <p align="center">
   $\color{#ffa5ab}\textsf{c*h are auto allowed, no need to ask!}$
 
- <p align=center> <a href="https://guns.lol/anyujins">guns.lol</a> $\color{#f4a261}\textsf{   ⋆}$ <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
+
