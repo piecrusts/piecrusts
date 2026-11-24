@@ -5,7 +5,7 @@
 </p>
 
   <div>
-  <img src="./Screenshot_2026-11-24_071918-removebg-preview.png" width="350" align="left" alt="character">
+  <img src="./2a415c35467f0a6d79bae987b5d1cf48-removebg-preview-removebg-preview.png" width="350" align="left" alt="character">
 
   <table>
     <tr>
