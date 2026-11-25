@@ -19,7 +19,17 @@ $\color{#dbd0d3}\textsf{a luminous, celestial entity carved from pure spirit and
       </td>
     </tr>
   </table>
+
+  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#f4a261}\textsf{jas or mixx}$
  
+ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; $\color{#ffa5ab}\textsf{minor , aest , lesbaian}$
+ 
+&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#f4a261}\textsf{do not copy or take inspo from any of my skins}$
+ 
+  $\color{#ffa5ab}\textsf{c*h are auto allowed, no need to ask!}$
+  
+ <details>
+  <summary> ${\textsf{\color{#dbd0d3}  𑣲}}$ ${\textsf{\color{#C9A29F}  friends }}$ </summary><br>
    $\color{#C9A29F}{\textrm{dysmd gc : }}$ <a href="https://github.com/nx2hxn">@nx2hxn</a> <a href="https://github.com/colesbf">@colesbf</a> <a href="https://github.com/norwayapht">@norwayapht</a><br> <a href="https://github.com/prwttypup">@prwttypup</a> <a href="https://github.com/tartpaw">@tartpaw</a> <a href="https://github.com/ranpwiz">@ranpwiz</a> <br>
 $\color{#dbd0d3}{\textrm{fat trio : }}$ <a href="https://github.com/nx2hxn">@nx2hxn</a> <a href="https://github.com/colesbf">@colesbf</a> <br>
 $\color{#C9A29F}{\textrm{bday cake trio : }}$ <a href="https://github.com/ccggmadness">@ccggmadness</a> $\color{#dbd0d3}{\textrm{yeva}}$ <br>
