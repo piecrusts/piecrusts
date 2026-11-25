@@ -32,7 +32,7 @@ $\color{#C9A29F}{\textrm{bday cake trio : }}$ <a href="https://github.com/ccggma
 $\color{#dbd0d3}{\textrm{oomfies :}}$ <a href="https://github.com/pyrolaand">@pyrolaand</a> <a href="https://github.com/N1TEB0I">@N1TEB0I</a> <a href="https://github.com/sconelet">@sconelet</a> <a href="https://github.com/lexiwasunknown">@lexiwasunknown</a> <a href="https://github.com/lalleshwariii">@lalleshwariii</a> <a href="https://github.com/lottipedei">@lottipedei</a> <a href="https://github.com/CL0UDVEIL">@CL0UDVEIL</a> <a href="https://github.com/TacticalVoid">@TacticalVoid</a> <a href="https://github.com/w2fsz">@w2fsz</a> <a href="https://github.com/ArtistsLeafRibbon">@ArtistsLeafRibbon</a> <a href="https://github.com/FALSE-WORM-KING">@FALSE-WORM-KING</a> <a href="https://github.com/deepaffection">@deepaffection</a> <a href="https://github.com/BunnyCoded">@BunnyCoded</a> <a href="https://github.com/sugurusloverboy">@sugursloverboy</a> <a href="https://github.com/OrinSushiBat">@OrinSushiBat</a> <a href="https://github.com/TheSyndicateSys">@TheSyndicateSys</a> <br>
  </details>
  
-<a href="https://guns.lol/anyujins">. . .guns.lol</a> $\color{#C9A29F}\textsf{   ⋆}$ <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
+&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#C9A29F}\textsf{   ⋆}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
 
 <img src="./Screenshot 2026-11-26 073341.png" width="500" align="centre" alt="character">
 
