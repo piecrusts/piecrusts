@@ -9,9 +9,9 @@
     <tr>
       <td align="center">
         &nbsp;&nbsp;&nbsp;
-        $\color{#f4a261}{\textrm{theres something about the truth ,}}$
-        &nbsp;&nbsp;&nbsp;
-        $\color{#ffa5ab}{\textrm{that keep it from being perfect.}}$
+        $\color{#C9A29F}{\textrm{theres something about the truth,}}$
+        &nbsp;
+        $\color{#dbd0d3}{\textrm{that keep it from being perfect.}}$
       </td>
     </tr>
   </table>
