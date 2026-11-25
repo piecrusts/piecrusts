@@ -2,10 +2,6 @@
  <img src="./24f5f00069e1c85f19f77f11be8c803f-removebg-preview.png"width="30"> <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=null%20hunters&color=d9a0b0&labelColor=EFE3E9" alt="Hits"><img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
 </p>
 
-<p align="center">
- $\color{#C9A29F}\textsf{໒꒱ angel :}$
-$\color{#dbd0d3}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#dbd0d3}\textsf{They are the cosmic architects of fate, the silent guardians of the universe.}$
-  
   <div>
   <img src="./Screenshot_2026-11-25_195447-removebg-preview.png" width="250" align="left" alt="character">
 
