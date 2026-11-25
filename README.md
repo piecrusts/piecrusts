@@ -16,13 +16,13 @@
     </tr>
   </table>
 
-  <img src="Screenshot_2026-11-25_201657-removebg-preview (2).png" width="20"> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#f4a261}\textsf{jas or mixx}$
+&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#dbd0d3}\textsf{jas or mixx}$
  
- &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; $\color{#ffa5ab}\textsf{minor , aest , lesbaian}$
+ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; $\color{#dbd0d3}\textsf{minor , aest , lesbaian}$
  
-&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#f4a261}\textsf{do not copy or take inspo from any of my skins}$
+&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#dbd0d3}\textsf{do not copy or take inspo from any of my skins}$
  
-  $\color{#ffa5ab}\textsf{c*h are auto allowed, no need to ask!}$
+  $\color{#dbd0d3}\textsf{c*h are auto allowed, no need to ask!}$
   
  <details>
   <summary> ${\textsf{\color{#dbd0d3}  𑣲}}$ ${\textsf{\color{#C9A29F}  friends }}$ </summary><br>
@@ -31,6 +31,9 @@ $\color{#dbd0d3}{\textrm{fat trio : }}$ <a href="https://github.com/nx2hxn">@nx2
 $\color{#C9A29F}{\textrm{bday cake trio : }}$ <a href="https://github.com/ccggmadness">@ccggmadness</a> $\color{#dbd0d3}{\textrm{yeva}}$ <br>
 $\color{#dbd0d3}{\textrm{oomfies :}}$ <a href="https://github.com/pyrolaand">@pyrolaand</a> <a href="https://github.com/N1TEB0I">@N1TEB0I</a> <a href="https://github.com/sconelet">@sconelet</a> <a href="https://github.com/lexiwasunknown">@lexiwasunknown</a> <a href="https://github.com/lalleshwariii">@lalleshwariii</a> <a href="https://github.com/lottipedei">@lottipedei</a> <a href="https://github.com/CL0UDVEIL">@CL0UDVEIL</a> <a href="https://github.com/TacticalVoid">@TacticalVoid</a> <a href="https://github.com/w2fsz">@w2fsz</a> <a href="https://github.com/ArtistsLeafRibbon">@ArtistsLeafRibbon</a> <a href="https://github.com/FALSE-WORM-KING">@FALSE-WORM-KING</a> <a href="https://github.com/deepaffection">@deepaffection</a> <a href="https://github.com/BunnyCoded">@BunnyCoded</a> <a href="https://github.com/sugurusloverboy">@sugursloverboy</a> <a href="https://github.com/OrinSushiBat">@OrinSushiBat</a> <a href="https://github.com/TheSyndicateSys">@TheSyndicateSys</a> <br>
  </details>
+
+<img src="./Screenshot 2026-11-26 073341.png" width="500" align="centre" alt="character">
+
                         
                   
 
