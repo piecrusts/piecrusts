@@ -7,7 +7,7 @@
 $\color{#dbd0d3}\textsf{a luminous, celestial entity carved from pure spirit and immortal light, existing in the spaces between the mortal world and the infinite divine.}$ $\color{#dbd0d3}\textsf{They are the cosmic architects of fate, the silent guardians of the universe,}$ $\color{#dbd0d3}\textsf{and the soaring messengers who bridge the gap between heaven and earth.}$
   
   <div>
-  <img src="./b9611946a35698fc33f78669a32ead19-removebg-preview (1).png" width="350" align="left" alt="character">
+  <img src="./b9611946a35698fc33f78669a32ead19-removebg-preview (1) (1).png" width="350" align="left" alt="character">
 
   <table>
     <tr>
