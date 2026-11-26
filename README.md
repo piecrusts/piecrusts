@@ -35,7 +35,7 @@ $\color{#6a994e}{\textrm{oomfies :}}$ <a href="https://github.com/pyrolaand">@py
  
 &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#ecf39e}\textsf{   ⋆}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
 
-<img src="./Screenshot 2026-11-26 181317.png" width="500" align="centre" alt="character">
+<img src="./sssssssss.png" width="500" align="centre" alt="character">
 
                         
                   
