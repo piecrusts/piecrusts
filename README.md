@@ -3,7 +3,7 @@
 </p>
 
   <div>
-  <img src="./Screenshot_2026-11-26_164830-removebg-preview (1).png" width="250" align="left" alt="character">
+  <img src="./jamatop.png" width="250" align="left" alt="character">
 
   <table>
     <tr>
