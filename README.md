@@ -3,7 +3,7 @@
 </p>
 
   <div>
-  <img src="./jamatop.png" width="250" align="left" alt="character">
+  <img src="./boosfer.png" width="250" align="left" alt="character">
 
   <table>
     <tr>
