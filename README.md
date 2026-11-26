@@ -3,7 +3,7 @@
 </p>
 
   <div>
-  <img src="./Screenshot_2026-11-25_195447-removebg-preview.png" width="250" align="left" alt="character">
+  <img src="./Screenshot_2026-11-25_195447-removebg-preview_PhotoGrid-removebg-preview.png" width="250" align="left" alt="character">
 
   <table>
     <tr>
