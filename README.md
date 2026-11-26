@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./24f5f00069e1c85f19f77f11be8c803f-removebg-preview.png"width="30"> <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e(https://hits.sh/github.com/piecrusts/)" alt="Hits"><img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
+ <img src="./24f5f00069e1c85f19f77f11be8c803f-removebg-preview.png"width="30"> <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e (https://hits.sh/github.com/piecrusts/)" alt="Hits"><img src="./1df48456d65d665c0ea25baf3357e527-removebg-preview.png" width="30">
 </p>
 
   <div>
