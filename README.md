@@ -1,6 +1,5 @@
 <p align="center">
-<img src="21f9530a10e50e58d84275de8a1023c5.gif" width="20" /> <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e" (https://hits.sh/github.com/piecrusts/)" alt="Hits"><img src="./output-onlinegiftools.gif" width="30">
-</p>
+<img src="21f9530a10e50e58d84275de8a1023c5.gif" width="20" /> <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e" (https://hits.sh/github.com/piecrusts/)" alt="Hits"><img src="output-onlinegiftools.gif" width="20" />
  
   <div>
   <img src="./boosfer.png" width="250" align="left" alt="character">
