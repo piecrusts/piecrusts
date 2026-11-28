@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e" (https://hits.sh/github.com/piecrusts/)" alt="Hits">
+<a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=angels&color=457b9d&labelColor=003049" (https://hits.sh/github.com/piecrusts/)" alt="Hits">
  <p align="center">
 <img src="./Screenshot 2026-11-28 113448.png" width="1000" align="centre" alt="character">
  
