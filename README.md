@@ -5,6 +5,7 @@
 
    <p align="center">
  <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#003049}\textsf{   ⋆˚࿔}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
+ 
 
                         
                   
