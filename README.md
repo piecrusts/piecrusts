@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://hits.sh/github.com/piecrusts/"><img src="https://hits.sh/github.com/piecrusts.svg?label=%231%20ragebaiter&color=a7c957&labelColor=6a994e" (https://hits.sh/github.com/piecrusts/)" alt="Hits">
  <p align="center">
-<img src="21f9530a10e50e58d84275de8a1023c5.gif" width="35" />
+<img src="./Screenshot 2026-11-28 113448.png" width="1000" align="centre" alt="character">
  
   <div>
   <img src="./boosfer.png" width="250" align="left" alt="character">
@@ -34,8 +34,6 @@ $\color{#6a994e}{\textrm{oomfies :}}$ <a href="https://github.com/pyrolaand">@py
  </details>
  
 &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#ecf39e}\textsf{   ⋆}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
-
-<img src="./sssssssss.png" width="500" align="centre" alt="character">
 
                         
                   
