@@ -4,7 +4,7 @@
 <img src="./Screenshot 2026-11-28 113448.png" width="1000" align="centre" alt="character">
 
    <p align="center">
- <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#003049}\textsf{   ⋆}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
+ <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#457b9d}\textsf{   ⋆˚࿔}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
 
                         
                   
