@@ -5,8 +5,10 @@
 
    <p align="center">
  <a href="https://guns.lol/anyujins">guns.lol</a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; $\color{#003049}\textsf{   ⋆˚࿔}$ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <a href="https://en.pronouns.page/@nmixes">prns.pg</a></a>
- 
 
+<p align="center">
+<img src="./Stamp 1.png" width="100" align="centre" alt="character"> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <img src="./Stamp 2.png" width="103" align="centre" alt="character"> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; <img src="./Stamp 3.png" width="102" align="centre" alt="character">
+ 
                         
                   
 
